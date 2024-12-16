@@ -1,0 +1,32 @@
+{
+  "title": "Мой удивительный квиз",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "Какая столица Франции?",
+      "options": ["Лондон", "Берлин", "Париж", "Мадрид"],
+      "correctAnswer": "Париж"
+    },
+    {
+      "id": 2,
+      "type": "true-false",
+      "question": "Земля плоская.",
+      "options": ["Правда", "Ложь"],
+      "correctAnswer": "Ложь"
+    },
+    {
+      "id": 3,
+      "type": "image-choice",
+      "question": "Какое из этих животных кошка?",
+      "options": [
+        "/placeholder.svg?height=100&width=100&text=Собака",
+        "/placeholder.svg?height=100&width=100&text=Кошка",
+        "/placeholder.svg?height=100&width=100&text=Птица",
+        "/placeholder.svg?height=100&width=100&text=Рыба"
+      ],
+      "correctAnswer": "/placeholder.svg?height=100&width=100&text=Кошка"
+    }
+  ]
+}
+
